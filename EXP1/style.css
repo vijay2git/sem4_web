@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.container1{
+    margin-left:50px;
+    box-shadow: 5px 5px 20px grey;
+    
+}
+.container2{
+    margin-left:80px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 20px grey;
+}
+iframe{
+    width:800px;
+    height:640px;
+}
+body{
+    background-color: lightgrey;
+}
